@@ -17,3 +17,8 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+### My solution
+- Yes
+- No, I used "button" to modify both groups. If I had used both grouping selectors, I could have made other buttons that did not follow this
+- Yes
