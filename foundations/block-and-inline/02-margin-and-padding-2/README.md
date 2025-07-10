@@ -16,3 +16,8 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - Everything inside the `.button-container` section is centered, and there is 8px padding.
 - The Big Button is centered on its own line.
 - The Big Button has 24px space on the sides, and 8px on top and bottom.
+
+
+# My soulution
+- My solution was about double the size of the given solution. Or rather, visually, the given solution was half the size on my screen, mine matches up with the preview.
+- I did not use "Margin 16x 8x" like the solution did, but mine still works

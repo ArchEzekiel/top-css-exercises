@@ -4,24 +4,36 @@ body {
 }
 
 .card {
-  width: 400px;
-  background: #fff;
+  width: 720px;
+  background: #ffffff;
   margin: 16px auto;
+  padding: 15px;
 }
 
 .title {
   background: #e3f4ff;
+  padding: 12px;
+  margin-top: 20px;
 }
 
 .content {
   background: #e3f4ff;
+  font-size: 28px;
+  padding: 24px;
 }
 
 .button-container {
   background: #e3f4ff;
+  margin-top: 20px;
+  font-size: 28px;
+  padding: 24px;
+  text-align: center;
 }
 
 button {
   background: white;
-  border: 1px solid #eee;
+  border: 2px solid #eee;
+  width: 250px;
+  padding: 16px;
+  font-size: 28px;
 }
